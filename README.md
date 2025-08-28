@@ -40,5 +40,6 @@ Choose:
 ID | Title | Author | Year | Status
 
 1 | The Hobbit | J.R.R. Tolkien | 1937 | available
+
 2 | 1984 | George Orwell | 1949 | borrowed
 ---
